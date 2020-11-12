@@ -1,0 +1,13 @@
+{
+    "name": "fhir-server",
+    "version": "1.0.0",
+    "description": "fhir-server test",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@asymmetrik/node-fhir-server-core": "^2.2.2"
+    }
+}
